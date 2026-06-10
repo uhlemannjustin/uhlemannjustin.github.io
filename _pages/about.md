@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hans Freudenthalgebouw room 613</p>
-    <p>Budapestlaan 6, 3584 CD</p>
-    <p>Utrecht, The Netherlands 12345</p>
+    <p>j.a.uhlemann (at) uu (dot) nl</p>
+    <p>Hans Freudenthalgebouw, room 613</p>
+    <p>Budapestlaan 6, 3584 CD Utrecht</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
