@@ -12,7 +12,7 @@ cv:
 
   sections:
   
-  Experience:
+    Experience:
       - company: Leibniz University Hannover
         position: Bachelor of science in Mathematics
         location: Hannover, Germany
