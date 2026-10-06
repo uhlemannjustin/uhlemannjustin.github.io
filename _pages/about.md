@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fourth year PhD student at the Mathematical Institute at [Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute)
+subtitle: 'Fourth year PhD student at the Mathematical Institute at <a href="https://www.uu.nl/en/organisation/mathematical-institute">Utrecht University</a>'
 
 profile:
   align: right
