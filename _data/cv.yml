@@ -29,22 +29,24 @@ cv:
         end_date: 2027
     Education:
       - institution: Leibniz University Hannover
-        area: Mathematics with minor in computer science
+        area: Mathematics
         degree: Bachelor of science
         location: Hannover, Germany
         start_date: 2017-10
         end_date: 2020-08
         highlights:
           - "Thesis: Explizite globale Klassenkörpertheorie nach Lubin-Tate"
+          - Minor in computer science
 
       - institution: Leibniz University Hannover
-        area: Mathematics with minor in physics
+        area: Mathematics
         degree: Master of science (with distinction)
         location: Hannover, Germany
         start_date: 2020-10
         end_date: 2023-06
         highlights:
           - "Thesis: Darmon Points on Markoff Surfaces"
+          - Minor in physics
 
     Interests:
       - name: Number theory
