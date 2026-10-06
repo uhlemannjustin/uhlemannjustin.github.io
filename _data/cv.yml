@@ -12,46 +12,39 @@ cv:
 
   sections:
   
-    Experience:
+    Employment:
       - company: Leibniz University Hannover
-        position: Bachelor of science in Mathematics
+        position: Student assistant
         location: Hannover, Germany
-        start_date: 2017
-        end_date: 2020
+        start_date: 2018
+        end_date: 2023
         #summary: ""
         #highlights:
         #  - Relativity
         #  - Description 2.
-      - company: Leibniz University Hannover
-        position: Master of science in Mathematics
-        location: Hannover, Germany
-        start_date: 2020
-        end_date: 2023
       - company: Utrecht University
-        position: PhD candidate in Mathematics
+        position: PhD candidate
         location: Utrecht, The Netherlands
         start_date: 2023
-        end_date: 2027 
+        end_date: 2027
     Education:
-      - institution: Utrecht University
-        area: Physics
-        degree: MSc
-        location: Utrecht, Netherlands
-        start_date: 2022-09
-        end_date: 2024-07
+      - institution: Leibniz University Hannover
+        area: Mathematics with minor in computer science
+        degree: Bachelor of science
+        location: Hannover, Germany
+        start_date: 2017-10
+        end_date: 2020-08
         highlights:
-          - "Thesis: My thesis title"
-          - Specialized in theoretical physics
-          - Graduated cum laude
+          - "Thesis: Explizite globale Klassenkörpertheorie nach Lubin-Tate"
 
-      - institution: University of Amsterdam
-        area: Physics and Astronomy
-        degree: BSc
-        location: Amsterdam, Netherlands
-        start_date: 2019-09
-        end_date: 2022-07
+      - institution: Leibniz University Hannover
+        area: Mathematics with minor in physics
+        degree: Master of science (with distinction)
+        location: Hannover, Germany
+        start_date: 2020-10
+        end_date: 2023-06
         highlights:
-          - Minor in Mathematics
+          - "Thesis: Darmon Points on Markoff Surfaces"
 
     Interests:
       - name: Number theory
