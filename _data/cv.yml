@@ -12,16 +12,26 @@ cv:
 
   sections:
   
-    Education:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+  Experience:
+      - company: Leibniz University Hannover
+        position: Bachelor of science in Mathematics
+        location: Hannover, Germany
+        start_date: 2017
+        end_date: 2020
+        #summary: ""
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
+      - company: Leibniz University Hannover
+        position: Master of science in Mathematics
+        location: Hannover, Germany
+        start_date: 2020
+        end_date: 2023
+      - company: Utrecht University
+        position: PhD candidate in Mathematics
+        location: Utrecht, The Netherlands
+        start_date: 2023
+        end_date: 2027 
 
     Interests:
       - name: Number theory
