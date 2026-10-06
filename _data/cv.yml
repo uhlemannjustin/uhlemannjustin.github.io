@@ -32,6 +32,26 @@ cv:
         location: Utrecht, The Netherlands
         start_date: 2023
         end_date: 2027 
+    Education:
+      - institution: Utrecht University
+        area: Physics
+        degree: MSc
+        location: Utrecht, Netherlands
+        start_date: 2022-09
+        end_date: 2024-07
+        highlights:
+          - "Thesis: My thesis title"
+          - Specialized in theoretical physics
+          - Graduated cum laude
+
+      - institution: University of Amsterdam
+        area: Physics and Astronomy
+        degree: BSc
+        location: Amsterdam, Netherlands
+        start_date: 2019-09
+        end_date: 2022-07
+        highlights:
+          - Minor in Mathematics
 
     Interests:
       - name: Number theory
