@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Fourth year PhD student at the <a href="https://www.uu.nl/en/organisation/mathematical-institute">Mathematical Institute at Utrecht University.</a>'
+subtitle: 'Fourth year PhD student at the <a href="https://www.uu.nl/en/organisation/mathematical-institute">Mathematical Institute at Utrecht University</a> working under the supervision of <a href="https://reh.math.uni-duesseldorf.de/~pieropan/">Marta Pieropan.</a>'
 
 profile:
   align: right
